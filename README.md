@@ -1,6 +1,6 @@
 # Income Classification Dashboard (≤50K vs >50K)
 ## Tools: Tableau, Census Adult Income Dataset
-## Viewable Dashboard Link: https://public.tableau.com/views/IncomeDashboard_17697346525230/Dashboard1?:showVizHome=no&:language=en-US
+### Viewable Dashboard Link: https://public.tableau.com/views/IncomeDashboard_17697346525230/Dashboard1?:showVizHome=no&:language=en-US
 
 In this project, I developed an interactive visual analytics dashboard to explore demographic and occupational factors associated with income classification, focusing on whether individuals earn ≤50K or >50K annually.
 
